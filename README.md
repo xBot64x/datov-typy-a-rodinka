@@ -1,1 +1,1 @@
-# datov-typy-a-rodinka
+# práce v hodině datové typy a rodinka
